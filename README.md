@@ -1,6 +1,10 @@
 # rsas
 
-A basic docker image that implements the shareware Rocket Streaming Audio Server (RSAS) with basic functionality. RSAS broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast. Read the [RSAS Docs](https://www.rocketbroadcaster.com/streaming-audio-server/docs/) for more information on how it works and what it does.
+A basic docker image that implements the shareware, Rocket Streaming Audio Server (RSAS), and adds several environmental variables for easy setup. RSAS broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast. Read the [RSAS Docs](https://www.rocketbroadcaster.com/streaming-audio-server/docs/) for more information on how it works and what it does.
+
+### rsas CapRover
+
+This image was built to be used on CapRover. Visit the [Caprover Documentation](https://caprover.com/), and use this [One Click App](https://github.com/pcbowers/rsas-caprover) to get started.
 
 ### rsas Basics
 
