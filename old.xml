@@ -1,0 +1,13 @@
+<icecast>
+  <listen-socket>
+    <port>8001</port>
+    <bind-address>0.0.0.0</bind-address>
+  </listen-socket>
+
+  <mount>
+    <mount-name>$ICECAST_MOUNT</mount-name>
+    <username>$ICECAST_USERNAME</username>
+    <password>$ICECAST_PASSWORD</username>
+  </mount>
+</icecast>
+
