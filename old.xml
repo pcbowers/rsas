@@ -7,7 +7,7 @@
   <mount>
     <mount-name>$ICECAST_MOUNT</mount-name>
     <username>$ICECAST_USERNAME</username>
-    <password>$ICECAST_PASSWORD</username>
+    <password>$ICECAST_PASSWORD</password>
   </mount>
 </icecast>
 
